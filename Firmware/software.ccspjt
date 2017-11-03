@@ -1,0 +1,20 @@
+[PROJECT]
+Target=software.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.015
+Compiler=PCH
+[Target Data]
+FileList=software.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[software.c]
+Type=4
+[mru-list]
+1=software.c
+[Opened Files]
+1=software.c
+2=
+3=
+[Units]
+Count=1
+1=software (main)
